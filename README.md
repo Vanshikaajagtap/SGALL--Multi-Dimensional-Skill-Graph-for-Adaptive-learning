@@ -1,4 +1,4 @@
-# SkillWeave
+# Atlas
 
 > DAG-based learning analytics system that diagnoses the exact root cause of a student's learning failure.
 

@@ -1,7 +1,3 @@
-"""
-SkillWeave — Analytics Routes
-"""
-
 from fastapi import APIRouter, Depends
 from ..database import get_db
 from ..auth import require_admin

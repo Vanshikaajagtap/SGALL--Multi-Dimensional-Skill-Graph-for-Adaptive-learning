@@ -1,7 +1,3 @@
-"""
-SkillWeave — JWT Authentication
-"""
-
 import os
 from datetime import datetime, timedelta, timezone
 

@@ -1,5 +1,5 @@
 -- ============================================================
---  SkillWeave — Database Initialization Script
+--  Atlas — Database Initialization Script
 --  PostgreSQL 16+
 --  Includes: DDL, Triggers, Stored Functions, Seed Data
 -- ============================================================

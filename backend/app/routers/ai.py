@@ -1,7 +1,3 @@
-"""
-Atlas — AI Routing & Controller
-"""
-
 from fastapi import APIRouter, Depends
 from pydantic import BaseModel
 from typing import List

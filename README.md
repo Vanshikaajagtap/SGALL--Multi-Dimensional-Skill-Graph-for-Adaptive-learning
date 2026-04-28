@@ -2,7 +2,7 @@
 
 > DAG-based learning analytics system that diagnoses the exact root cause of a student's learning failure.
 
-SkillWeave models academic concepts as a **Directed Acyclic Graph (DAG)** within PostgreSQL and automatically traces learning failures backward through prerequisite chains to identify the **highest-order unmastered prerequisite**.
+Atlas models academic concepts as a **Directed Acyclic Graph (DAG)** within PostgreSQL and automatically traces learning failures backward through prerequisite chains to identify the **highest-order unmastered prerequisite**.
 
 ---
 
